@@ -1,3 +1,6 @@
 "Hello This is my second file" 
+<<<<<<< HEAD
 Hello this is Julee
 I am adding this to feature1
+=======
+>>>>>>> parent of c27971c (Update 2.txt)
